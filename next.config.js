@@ -9,6 +9,7 @@ module.exports = {
       "images.unsplash.com",
       "images.pexels.com",
       "avatars.githubusercontent.com",
+      "cdn.sanity.io",
     ],
   },
 };
